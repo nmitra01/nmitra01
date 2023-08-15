@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/em5eN1yp5HaI54vcKd/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="300"/>
 </div>
 
 <div id="badges">
@@ -9,3 +9,15 @@
   
   <img src="https://komarev.com/ghpvc/?username=nmitra01&style=flat-square&color=blue" alt="" />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QRHTTZsegkx1GDqZV1/giphy.gif" width="400" heigh="200" />
+</div>
+
+---
+
+### :man_technologist: About Me :
+University of Iowa Student
+- Major: Computational Biomedical Engineering
+- Minor: Computer Science
+- Extracurriculars: VP of Operations, South Asian Student Alliance
